@@ -2,7 +2,7 @@
 ## Webstack - Portfolio Project
 
 
-### A REST API is a popular way for systems to expose useful functions and data. REST, which stands for representational state transfer, can be made up of one or more resources that can be accessed at a given URL and returned in various formats, like JSON, images, HTML, and more.
+*A REST API is a popular way for systems to expose useful functions and data. REST, which stands for representational state transfer, can be made up of one or more resources that can be accessed at a given URL and returned in various formats, like JSON, images, HTML, and more.*
 
 ## To create a Django REST API for a restaurant, you can follow these steps:
 
