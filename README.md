@@ -30,7 +30,7 @@ from rest_framework.views import APIView from rest_framework.response import Res
 
 
 ---
-# To create a Django REST API for a restaurant, you can follow these steps: 
+### To create a Django REST API for a restaurant, you can follow these steps: 
 ---
 
 -  Install Django REST framework using pip. 
