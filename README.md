@@ -7,22 +7,22 @@
 
 
 ---
-## To create a Django REST API for a restaurant, you can follow these steps:
+ To create a Django REST API for a restaurant, you can follow these steps:
 ---
 
-*Install Django REST framework using pip1.*
+- Install Django REST framework using pip1.
 
-*Create a new Django project and app2.*
+- Create a new Django project and app2.
 
-*Define your models in the app’s models.py file2.*
+- Define your models in the app’s models.py file2.
 
-*Create serializers for your models in the app’s serializers.py file2.*
+- Create serializers for your models in the app’s serializers.py file2.
 
-*Define views for your API in the app’s views.py file2.*
+- Define views for your API in the app’s views.py file2.
 
-*Define URLs for your API in the project’s urls.py file2.*
+- Define URLs for your API in the project’s urls.py file2.
 
-### Here is an example of a Django REST API for a restaurant that includes code 3:
+ Here is an example of a Django REST API for a restaurant that includes code 3:
 
 from django.urls import path from .views import MenuItemsView urlpatterns = [ path('menu/', MenuItemsView.as_view(), name='menu-items'), ]
 
@@ -30,7 +30,7 @@ from rest_framework.views import APIView from rest_framework.response import Res
 
 
 ---
-### To create a Django REST API for a restaurant, you can follow these steps: 
+ To create a Django REST API for a restaurant, you can follow these steps: 
 ---
 
 -  Install Django REST framework using pip. 
