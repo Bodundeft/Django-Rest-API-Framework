@@ -88,8 +88,6 @@ INSTALLED_APPS = [
     ...
     'rest_framework',
 ]
-
-
 ```
 
 # Example
