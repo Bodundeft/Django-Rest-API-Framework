@@ -64,6 +64,9 @@ we get:
 ```
 {
     "detail": "Authentication credentials were not provided."
+}
+
+
 
 # Requirements
 
