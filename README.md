@@ -66,7 +66,7 @@ we get:
     "detail": "Authentication credentials were not provided."
 }
 
-
+----
 
 # Requirements
 
@@ -88,6 +88,8 @@ INSTALLED_APPS = [
     ...
     'rest_framework',
 ]
+
+
 ```
 
 # Example
