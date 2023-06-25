@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/hamso/PROJECTS/alx/Django-Rest-API-Framework/env"
+VIRTUAL_ENV="/home/hamso/PROJECTS/cloned/Restaurants-Menu/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

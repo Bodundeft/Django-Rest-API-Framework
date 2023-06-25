@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/hamso/PROJECTS/alx/Django-Rest-API-Framework/env"
+set -gx VIRTUAL_ENV "/home/hamso/PROJECTS/cloned/Restaurants-Menu/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
